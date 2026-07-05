@@ -1,0 +1,6 @@
+data_raw/
+database/
+*.db
+*.sqlite
+*.zip
+__pycache__/
